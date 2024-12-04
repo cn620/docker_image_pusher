@@ -8,7 +8,9 @@
 #ollama/ollama
 #xprobe/xinference:v0.12.3
 #chatimage/chatchat:0.3.1.3-93e2c87-20240829
-ubuntu
+#ubuntu
+1dev/server
+postgres:14-alpine3.15
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

@@ -15,9 +15,11 @@
 #1dev/server
 #postgres:14-alpine3.15
 
-gitea/gitea:1.22.4
+#gitea/gitea:1.22.4
 
-mfish-nocode-view
+#mfish-nocode-view
+
+pytorch/pytorch:2.2.1-cuda12.0-cudnn8-runtime
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

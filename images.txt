@@ -1,4 +1,4 @@
-nginx
+#nginx
 
 #penpotapp/frontend:latest
 #penpotapp/backend:latest
@@ -7,7 +7,7 @@ nginx
 #redis:7
 #sj26/mailcatcher:latest
 
-#ollama/ollama
+ollama/ollama
 #xprobe/xinference:v0.12.3
 #chatimage/chatchat:0.3.1.3-93e2c87-20240829
 #ubuntu

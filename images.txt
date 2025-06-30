@@ -9,12 +9,15 @@
 
 #ollama/ollama
 #quay.io/go-skynet/localai:latest
-localai/localai:latest-cpu
-localai/localai:latest-gpu-nvidia-cuda-12
+#localai/localai:latest-cpu
+#localai/localai:latest-gpu-nvidia-cuda-12
 #xprobe/xinference:v0.12.3
 #chatimage/chatchat:0.3.1.3-93e2c87-20240829
 #ubuntu
 
+wazuh/wazuh-indexer:4.12.0
+wazuh/wazuh-manager:4.12.0
+wazuh/wazuh-dashboard:4.12.0
 #1dev/server
 #postgres:14-alpine3.15
 

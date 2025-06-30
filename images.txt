@@ -18,7 +18,9 @@
 #wazuh/wazuh-indexer:4.12.0
 #wazuh/wazuh-manager:4.12.0
 #wazuh/wazuh-dashboard:4.12.0
-wazuh/wazuh-certs-generator:0.0.2
+#wazuh/wazuh-certs-generator:0.0.2
+
+crowdsecurity/crowdsec:latest
 
 #1dev/server
 #postgres:14-alpine3.15

@@ -36,7 +36,7 @@
 #paddleocr/ocr_server
 ##ELK
 mysql:8.0.42
-gkd/gkd-nacos:2.4.1
+#gkd/gkd-nacos:2.4.1
 redis:7.2.8
 minio/minio:RELEASE.2025-04-22T22-12-26Z
 #gkd/gkd-seata-server:2.4.1

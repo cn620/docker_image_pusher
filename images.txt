@@ -65,9 +65,9 @@ minio/minio:RELEASE.2025-04-22T22-12-26Z
 #grafana/grafana:9.2.4
 #apache/shardingsphere-proxy:5.4.0
 
-logstash:latest
-elasticsearch:latest
-kibana:latest
+logstash
+elasticsearch
+kibana
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

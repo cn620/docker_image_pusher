@@ -68,10 +68,13 @@ minio/minio:RELEASE.2025-04-22T22-12-26Z
 #elastic/logstash:8.19.0
 #elastic/elasticsearch:8.19.0
 #elastic/kibana:8.19.0
-
+#elk9.x主程序
 #elastic/logstash:9.0.4
-elastic/elasticsearch:9.0.4
-elastic/kibana:9.0.4
+#elastic/elasticsearch:9.0.4
+#elastic/kibana:9.0.4
+
+#ocr服务
+dots-ocr:latest
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

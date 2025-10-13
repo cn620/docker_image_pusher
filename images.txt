@@ -87,7 +87,9 @@ minio/minio:RELEASE.2025-04-22T22-12-26Z
 #goharbor/prepare:v2.8.4
 #goharbor/prepare:v2.10.3
 #goharbor/prepare:v2.3.5
-goharbor/prepare:v2.3.0
+#goharbor/prepare:v2.3.0
+
+stepfun2025/vllm:step-audio-2-v20250909
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

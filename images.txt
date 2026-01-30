@@ -100,6 +100,7 @@ minio/minio:RELEASE.2025-04-22T22-12-26Z
 
 wantcat/trendradar:latest
 wantcat/trendradar-mcp:latest
+huggingface/fastapi-inference-speecht5:latest
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

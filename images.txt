@@ -105,10 +105,9 @@ minio/minio:RELEASE.2025-04-22T22-12-26Z
 #quantatrisk/funasr-api:gpu-latest
 #quantatrisk/funasr-api:cpu-latest
 
-openeuler/openeuler:24.03-lts-sp3
+#openeuler/openeuler:24.03-lts-sp3
 
-#funasr-api-docker
-quantatrisk/funasr-api:gpu-latest
+hunyuan/hunyuan-7b:hunyuan-7b-trtllm
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

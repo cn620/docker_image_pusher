@@ -61,8 +61,11 @@ minio/minio:RELEASE.2025-04-22T22-12-26Z
 #sheepkiller/kafka-manager:latest
 #apache/skywalking-oap-server:9.7.0
 #apache/skywalking-ui:9.7.0
+
+#prometheus
 #prom/prometheus:v2.40.1
 #grafana/grafana:9.2.4
+grafana/grafana:13.0
 #apache/shardingsphere-proxy:5.4.0
 
 #elastic/logstash:8.19.0
@@ -111,7 +114,7 @@ minio/minio:RELEASE.2025-04-22T22-12-26Z
 
 #crawlabteam/crawlab:0.6.3
 
-instarsea/trendsonar
+#instarsea/trendsonar
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
